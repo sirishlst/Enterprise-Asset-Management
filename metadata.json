@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Enterprise Asset Management",
+  "description": "Multi-department enterprise asset management system with dynamic forms, hierarchical line & budget approvals, short-circuit bypass, IT procurement, barcode tagging, and lifecycle allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
